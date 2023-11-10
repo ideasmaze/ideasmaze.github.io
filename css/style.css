@@ -299,7 +299,7 @@ div {
 }
 .post .post-content {
   clear: left;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.77;
   color: #444;
   padding-top: 15px;
@@ -308,11 +308,13 @@ div {
   word-break: break-word;
 }
 .post .post-content h2 {
+  font-size: 1.5em;
   margin: 1.4em 0 1.1em;
   border-bottom: 1px solid #eee;
   overflow: hidden;
 }
 .post .post-content h3 {
+  font-size: 1.17em;
   margin: 1.4em 0 1.1em;
 }
 .post .post-content pre code {
