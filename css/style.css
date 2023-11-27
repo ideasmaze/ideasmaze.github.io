@@ -320,10 +320,10 @@ div {
 .post .post-content pre code {
   padding: 0 2em;
 }
-.post .post-content figure { /*图注CSS样式根据需要修改*/
-  font-size: 14px;
+.post .post-content figure {
+  font-size: 13px;
   font-weight: normal;
-  color: #8c8c8c;
+  color: #999;
   text-align: center;
 }
 .post .post-content p {
